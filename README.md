@@ -8,8 +8,8 @@ Hackaton 2024 dos terceiros anos do Curso de Técnico em Desenvolvimento de Sist
 **Projeto**: [**Tema**](https://github.com/laissamendes/hackaton_2024.git).
 
 Equipe:
-- [Daniela Venturi]((https://github.com/DanielaVenturi))
-- [Gabriel Henrique Machado]((https://github.com/R3yfogui))
+- [Daniela Venturi](https://github.com/DanielaVenturi)
+- [Gabriel Henrique Machado](https://github.com/R3yfogui)
 - [Guilherme Eduardo Passos](https://github.com/guilhermepassos1)
 - [Laíssa Mendes](https://github.com/laissamendes)
 
