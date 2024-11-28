@@ -1,5 +1,5 @@
 # Hackathon 2024
-*Tema*
+*Sistema para auxiliar os conselhos de classe*
 
 Hackathon 2024 dos terceiros anos do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
 
