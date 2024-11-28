@@ -1,11 +1,11 @@
-# Hackaton 2024
+# Hackathon 2024
 *Tema*
 
-Hackaton 2024 dos terceiros anos do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
+Hackathon 2024 dos terceiros anos do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
 
 *lorem lorem lorem*
 
-**Projeto**: [**Hackaton 2024**](https://github.com/laissamendes/hackaton_2024.git).
+**Projeto**: [**Hackathon 2024**](https://github.com/laissamendes/hackathon_2024.git).
 
 Equipe:
 - [Daniela Venturi](https://github.com/DanielaVenturi)
@@ -15,9 +15,9 @@ Equipe:
 
 Links do projeto:
 
--   [Documentação](https://github.com/laissamendes/PI-2024-raizesDigitais.git)
--   Backend: [Repositório](https://github.com/laissamendes/hackaton_backend.git) e [Publicação]()
--   Frontend: [Repositório](https://github.com/laissamendes/hackaton_frontend.git) e [Publicação]()
+-   [Documentação](https://github.com/laissamendes/hackathon_2024.git)
+-   Backend: [Repositório](https://github.com/laissamendes/hackathon_backend.git) e [Publicação]()
+-   Frontend: [Repositório](https://github.com/laissamendes/hackathon_frontend.git) e [Publicação]()
 
 
 # 1. Desenvolvimento
