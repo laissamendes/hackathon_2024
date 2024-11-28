@@ -5,7 +5,7 @@ Hackaton 2024 dos terceiros anos do Curso de Técnico em Desenvolvimento de Sist
 
 *lorem lorem lorem*
 
-**Projeto**: [**Tema**](https://github.com/laissamendes/hackaton_2024.git).
+**Projeto**: [**Hackaton 2024**](https://github.com/laissamendes/hackaton_2024.git).
 
 Equipe:
 - [Daniela Venturi](https://github.com/DanielaVenturi)
@@ -16,8 +16,8 @@ Equipe:
 Links do projeto:
 
 -   [Documentação](https://github.com/laissamendes/PI-2024-raizesDigitais.git)
--   Backend: [Repositório](https://github.com/Edukons/pi-backend.git) e [Publicação](https://pi-backend.herokuapp.com/)
--   Frontend: [Repositório](https://github.com/laissamendes/pi-frontend.git) e [Publicação](https://pi-frontend.herokuapp.com/)
+-   Backend: [Repositório](https://github.com/laissamendes/hackaton_backend.git) e [Publicação]()
+-   Frontend: [Repositório](https://github.com/laissamendes/hackaton_frontend.git) e [Publicação]()
 
 
 # 1. Desenvolvimento
