@@ -43,9 +43,16 @@ Links do projeto:
 
 # 2. Situação Problema
 
--   **Introdução**: O Projeto Raízes Digitais foi idealizado pelos professores Alessandra Klug e Marco Antônio Rojas e se tornará real com a ajuda e o desenpenho dos alunos presentes na equipe, Ana Clara Fidêncio Silva, Eduardo Kons, Guilherme Eduardo Passos, Laíssa Mendes e Maria Eduarda Cardozo;
--   **Situação-problema**: O sistema funcionrá como uma ajuda à aldeia para identificação das pessoas, animais doentes e moradias, pois antes da ideia, era responsabilidade de apenas uma pessoa lembrar de todas as informações necessárias.
--   **Conclusão**: Portanto o projeto será um meio de grande ajuda para todos os moradores da aldeia, pois com ele as informações serão de fácil acesso parta todos, tanto os moradores quanto a equipe da Pastoral Indígena.
+### Auxílio ao Processo de Realização dos Conselhos de Classe
+
+#### Introdução
+* A realização dos conselhos de classe é um momento crucial no ambiente escolar, onde são discutidos o desempenho acadêmico e comportamental dos alunos, além de serem tomadas decisões pedagógicas que visam melhorar a qualidade do ensino e a formação dos estudantes. Para que esses encontros sejam eficazes e produtivos, é fundamental contar com ferramentas e processos que auxiliem na organização e na análise das informações pertinentes.
+
+#### Problema
+* Atualmente, o Instituto Federal Catarinense enfrenta desafios significativos na realização dos conselhos de classe devido a diversos problemas operacionais. A desorganização é um dos principais entraves, muitas vezes causada pela ausência de dados atualizados e completos dos alunos. Além disso, a dispersão das informações entre diferentes fontes e formatos dificulta a consolidação dos dados necessários para as deliberações. Este cenário pode resultar em atrasos nas reuniões, decisões menos assertivas e uma falta de acompanhamento contínuo dos alunos. A falta de um sistema integrado para gerenciar as observações, notas e ocorrências dos estudantes torna o processo de conselho de classe ineficiente e propenso a erros.
+
+### Conclusão 
+* Diante desses desafios, a equipe implementou um sistema de auxílio ao processo de realização dos conselhos de classe. Com base nos requisitos funcionais estabelecidos, o novo sistema permite a autenticação dos usuários, o registro e consulta de observações, o lançamento de notas e a visualização do histórico dos conselhos. Este sistema integrado e organizado garante que todas as informações necessárias estejam prontamente disponíveis, facilitando a tomada de decisões informadas e coerentes. Assim, a escola está mais preparada para oferecer um acompanhamento contínuo e detalhado do progresso dos alunos, promovendo um ambiente educacional mais organizado e propício ao aprendizado e desenvolvimento dos estudantes.
 
 # 3. Descrição da proposta
 
