@@ -16,7 +16,7 @@ Equipe:
 Links do projeto:
 
 -   [Documentação](https://github.com/laissamendes/hackathon_2024.git)
--   Backend: [Repositório](https://github.com/laissamendes/hackathon_backend.git) e [Publicação]()
+-   Backend: [Repositório](https://github.com/DanielaVenturi/hackathon_backend.git) e [Publicação]()
 -   Frontend: [Repositório](https://github.com/laissamendes/hackathon_frontend.git) e [Publicação]()
 
 
