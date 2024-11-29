@@ -65,8 +65,7 @@ Links do projeto:
 -   
 # 4. Modelagem de Dados
 
-file:///home/guilherme.passos/Downloads/modelagem%20do%20banco.jpeg
-
+![WhatsApp Image 2024-11-29 at 08 25 17](https://github.com/user-attachments/assets/84c82e09-1c62-4fb1-98a6-f025ad604876)
 
 <!--
 # 4. Regras de negócio
