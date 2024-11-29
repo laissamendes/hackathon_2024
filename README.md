@@ -64,9 +64,7 @@ Links do projeto:
 -   **O que poderá ser feito no software**: Acessar as telas de "Pessoa" que terão as informações pessoais de cada uma delas; "Moradias" com as informações das casas e "Animais" com os prontuários e dados de cada um (todas as páginas terão uma aba para que sejão adcionadas novas informações.
 -   
 # 4. Modelagem de Dados
-
-![WhatsApp Image 2024-11-29 at 08 25 17](https://github.com/user-attachments/assets/84c82e09-1c62-4fb1-98a6-f025ad604876)
-
+![WhatsApp Image 2024-11-29 at 10 41 53 (1)](https://github.com/user-attachments/assets/35149ddb-7af9-4b77-b26d-f7b927d2faab)
 <!--
 # 4. Regras de negócio
 (*Nessa parte a equipe deve descrever as regras de negócio que serão implementadas no sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.*)
