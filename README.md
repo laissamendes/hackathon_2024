@@ -64,7 +64,9 @@ Links do projeto:
 -   **O que poderá ser feito no software**: Acessar as telas de "Pessoa" que terão as informações pessoais de cada uma delas; "Moradias" com as informações das casas e "Animais" com os prontuários e dados de cada um (todas as páginas terão uma aba para que sejão adcionadas novas informações.
 -   
 # 4. Modelagem de Dados
-![modelagem banco de dados](https://github.com/user-attachments/assets/542f03cc-66c5-4f07-b122-2653b897ee20)
+
+file:///home/guilherme.passos/Downloads/modelagem%20do%20banco.jpeg
+
 
 <!--
 # 4. Regras de negócio
