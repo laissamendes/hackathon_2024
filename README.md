@@ -17,29 +17,7 @@ Links do projeto:
 -   Backend: [Repositório](https://github.com/DanielaVenturi/hackathon_backend.git) e [Publicação]()
 -   Frontend: [Repositório](https://github.com/laissamendes/hackathon_frontend.git) e [Publicação]()
 
-
-# 1. Desenvolvimento
-
-
-**1.1 Modelos de Sistemas**
-
-
-**1.1.1 Ponto de Vendas (PDV)**
-
-**Gerenciamento de vendas para uma padaria**
-
-
-**1.1.2 Empréstimo**
-
-**Gerenciamento de uma biblioteca**
-
-**1.1.3 Ordem de Serviço (O.S.)**
-
-**Manutenção de computadores**
-
-
-
-# 2. Situação Problema
+# 1. Situação Problema
 
 ### Auxílio ao Processo de Realização dos Conselhos de Classe
 
@@ -51,23 +29,15 @@ Links do projeto:
 
 ### Conclusão 
 * Diante desses desafios, a equipe implementou um sistema de auxílio ao processo de realização dos conselhos de classe. Com base nos requisitos funcionais estabelecidos, o novo sistema permite a autenticação dos usuários, o registro e consulta de observações, o lançamento de notas e a visualização do histórico dos conselhos. Este sistema integrado e organizado garante que todas as informações necessárias estejam prontamente disponíveis, facilitando a tomada de decisões informadas e coerentes. Assim, a escola está mais preparada para oferecer um acompanhamento contínuo e detalhado do progresso dos alunos, promovendo um ambiente educacional mais organizado e propício ao aprendizado e desenvolvimento dos estudantes.
-
-# 3. Descrição da proposta
-
-
-**Alguns pontos importantes a se destacar são:**
-
--   **Qual o foco de ação do software**: Relacionado com os problemas levantados na análise da situação-problema. O que realmente o software vai fazer. Por exemplo, o foco de ação do Gmail é permitir o envio e recebimento de e-mails.
--   **Os níveis de usuário do sistema**: Apenas o Pagé terá acesso, pois serão dados pessoais que estarão no sistema, e caso seja necessário o compartilhamento de dados, será responsabilidade dele.
--   **O que poderá ser feito no software**: Acessar as telas de "Pessoa" que terão as informações pessoais de cada uma delas; "Moradias" com as informações das casas e "Animais" com os prontuários e dados de cada um (todas as páginas terão uma aba para que sejão adcionadas novas informações.
--   
-# 4. Modelagem de Dados
-![WhatsApp Image 2024-11-29 at 10 41 53 (1)](https://github.com/user-attachments/assets/35149ddb-7af9-4b77-b26d-f7b927d2faab)
+  
+# 2. Modelagem de Dados
+![WhatsApp Image 2024-11-30 at 05 42 40](https://github.com/user-attachments/assets/2c58633b-68af-4ed8-9ae9-04ea779a0041)
 <!--
 # 4. Regras de negócio
 (*Nessa parte a equipe deve descrever as regras de negócio que serão implementadas no sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.*)
 
-As **Regras de negócio** são orientações e restrições que ajudam a regular as operações de uma empresa. **Regras** foram criadas para **colaborar com o funcionamento**, seja da sociedade, de uma escola, de um jogo, etc. Não seria diferente nas organizações. Vamos abordar melhor sobre esse assunto. Entender o que são as regras de negócio, sua importância, como são aplicadas e
+As **Regras de negócio** são orientações e restrições que ajudam a![WhatsApp Image 2024-11-30 at 05 42 40](https://github.com/user-attachments/assets/baf64270-85ee-4c7e-9e90-881a16aa1614)
+ regular as operações de uma empresa. **Regras** foram criadas para **colaborar com o funcionamento**, seja da sociedade, de uma escola, de um jogo, etc. Não seria diferente nas organizações. Vamos abordar melhor sobre esse assunto. Entender o que são as regras de negócio, sua importância, como são aplicadas e
 automatizadas na gestão por processo.
 
 **4.1 O que são regras de negócio?**
