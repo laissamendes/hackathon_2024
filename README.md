@@ -3,6 +3,8 @@
 
 Hackathon 2024 dos terceiros anos do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
 
+*O projeto anda precisa de ajustes, como a integração de mais páginas com o backend, porém já estão sendo providenciados!*
+
 **Projeto**: [**Hackathon 2024**](https://github.com/laissamendes/hackathon_2024.git).
 
 Equipe:
